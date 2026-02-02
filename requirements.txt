@@ -1,0 +1,4 @@
+fastapi
+celery
+python-dotenv
+redis
